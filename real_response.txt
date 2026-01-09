@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 164
+
+{
+  "userId": 1,
+  "username": "admin",
+  "email": "admin@vulnerable-app.test",
+  "role": "admin",
+  "lastLogin": "2026-01-08T10:42:11Z"
+}
